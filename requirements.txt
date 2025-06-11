@@ -1,0 +1,7 @@
+Pillow
+opencv-python-headless
+pytesseract
+pdf2image
+psycopg2-binary
+python-dotenv
+pandas
